@@ -1,0 +1,9 @@
+package com.lambdaexprn;
+
+public class smalllambdaex {
+
+	public static void main(String[] args) {
+		 System.out.println("Hello");
+
+}
+}

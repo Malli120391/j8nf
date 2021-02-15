@@ -1,0 +1,9 @@
+package com.lambdaexprn;
+
+public class LambdaSyntax {
+
+	public static void main(String[] args) {
+
+	}
+
+}

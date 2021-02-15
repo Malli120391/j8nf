@@ -1,0 +1,13 @@
+package com.lambdaexprn;
+
+import java.util.Date;
+
+public class DateAndTimeDemo {
+
+	public static void main(String[] args) {
+
+		Date currentdate = new Date();
+		
+	}
+
+}

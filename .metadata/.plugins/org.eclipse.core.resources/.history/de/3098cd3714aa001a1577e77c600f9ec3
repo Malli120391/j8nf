@@ -1,0 +1,18 @@
+package com.lambdaexprn;
+
+interface AddInterface() {
+public int addTwonumbers(int a , int b);
+	
+}
+
+
+public class LambdaSyntax {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+interface DisplayInterface() {
+	
+}

@@ -1,0 +1,19 @@
+package com.lambdaexprn;
+
+interface MethodeRefence{
+	void hellomethodreference();
+}
+
+
+public class StaticMethodeReference {
+	static void hellomethodreference() {
+		System.out.println("asadadadadadada");
+	}
+
+	public static void main(String[] args) {
+
+		MethodeRefence methodeRefence = new StaticMethodeReference::hellomethodreference;
+		methodeRefence.hellomethodreference();
+	}
+
+}
